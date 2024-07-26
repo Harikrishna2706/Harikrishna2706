@@ -2,7 +2,7 @@
 
 <!--
 **Harikrishna2706/Harikrishna2706** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+welcome to my profile
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
